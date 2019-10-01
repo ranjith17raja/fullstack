@@ -1,0 +1,77 @@
+a.navbar-brand
+{
+    background: url(../image/sprites.png);
+    background-position: 0px -380px;
+    width: 120px;
+    height: 35px;
+}
+#section1
+{
+    background: url("../image/background.jpg");
+    height: 500px;
+    width:100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+}
+#displaytext
+{
+    color: white;
+    text-align: center;
+    padding-top:60px; 
+}
+.searchicon
+{
+    background: url(../image/sprites.png);
+    background-repeat: no-repeat;
+    width:70px;
+    height: 16px;
+    z-index: 9999;
+    background-position: -172px 0px;
+    position: relative;
+    display: inline-flex;
+    left:-344px;
+    top:39px;
+}
+input.form-control
+{
+    height: 50px;
+}
+
+
+input {
+    padding: 0px 170px 0 35px !important; 
+}
+.p3
+{
+    background-color: transparent;
+    
+    text-transform: capitalize;
+}
+a.p3
+{
+    color: white;
+}
+
+.navbar-dark
+{
+
+    color: white !important;
+}
+a.p1
+{
+    position: relative;
+   top:150px; 
+    text-decoration: none;
+    color:white; 
+}
+#search
+{
+    position: relative;
+}
+.p2
+{
+    position: absolute;
+    right: 15px;
+    top:110px;
+}
